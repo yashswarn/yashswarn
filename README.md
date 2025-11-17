@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yash Soni  
-🎓 Final Year CSE Student | 💻 Frontend Developer Developer | 🚀 Passionate about building real-world web apps  
+🎓 Final Year CSE Student | 💻 Frontend Developer | 🚀 Passionate about building real-world web apps  
 
 ## 🛠️ Tech Stack
 - 🧑‍💻 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Angular
