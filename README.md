@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Yash Soni  
-🎓 Final Year CSE Student | 💻 Full Stack Developer | 🚀 Passionate about building real-world web apps  
+🎓 Final Year CSE Student | 💻 Frontend Developer Developer | 🚀 Passionate about building real-world web apps  
 
 ## 🛠️ Tech Stack
 - 🧑‍💻 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Angular
-- 🗄️ Backend: Node.js, Express.js, MySQL
+- 🗄️ Backend(Basic): Node.js, Express.js, MySQL
 - 🔧 Tools: Git, GitHub, Postman, VS Code, Firebase
 - 📚 Currently Learning: MongoDB
 
